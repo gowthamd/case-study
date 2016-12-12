@@ -9,6 +9,6 @@ public class API
 	@GET
     @Path("test")
     public String test() {
-        return "Test";
+        return "tested";
     }
 }
