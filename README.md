@@ -1,0 +1,2 @@
+<a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_balnk">Java 8</a> installed locally.
+<a href="http://maven.apache.org/download.html" target="_blank">Maven 3</a> installed locally.
